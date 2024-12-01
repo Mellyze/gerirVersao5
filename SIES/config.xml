@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FILE JDBC PROPERTIES:</comment>
+<entry key="jdbc.url">jdbc:postgresql://localhost:5432</entry>
+<entry key="jdbc.passwd">postgres</entry>
+<entry key="jdbc.statement">org.postgresql.jdbc</entry>
+<entry key="jdbc.banco">db_veiculo</entry>
+<entry key="jdbc.user">postgres</entry>
+<entry key="jdbc.driver">org.postgresql.Driver</entry>
+</properties>
